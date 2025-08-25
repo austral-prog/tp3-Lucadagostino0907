@@ -1,6 +1,8 @@
 def check_vowels():
-    # Código a implementar utilizando input.
+
+    mensaje = "hello, world!"
+
+    print(mensaje[4:13:2])
 
 
-# Para verificar este ejercicio ejecutar el comando
-# `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
+check_vowels()
