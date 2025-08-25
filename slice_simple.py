@@ -5,4 +5,3 @@ def slice_simple():
     print(texto.lower())
 
 
-slice_simple()
