@@ -4,4 +4,5 @@ def slice_simple():
     print(texto[2:5].lower())
     print(texto.lower())
 
+slice_simple()
 
